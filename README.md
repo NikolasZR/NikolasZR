@@ -12,5 +12,18 @@ Actualmente estoy Terminando mis Estudios de Programador Full stack estoy realiz
 
 Actualmente mi objetivo es conseguir un trabajo que me ayude a conseguir experiencia y mejorar las técnicas y conocimientos en programación.
 
+💥¿Que Tecnologias Uso?
+
+* JavaScript
+* ReactJS
+* Redux
+* Bootstrap
+* NodeJS
+* Expressjs
+* PostgreSQL
+* MongoDB
+* HTML
+* CSS
+
 *📫 Contact me to nicolasaberastegui97@gmail.com  
 
