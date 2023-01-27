@@ -1,11 +1,16 @@
 *👋 Hi, I’m Nicolas
 
-*👀 I’m learning programming
+*👀 ¿QUIEN SOY?
 
-*🌱 I’m currently learning javascript
+Soy un programador Full Stack me apasionan tanto el back como el front Desde pequeño soy amantes de las computadoras y poco a poco me fui enamorando de la programación.
+  
+*🌱 ¿Que Hago?
 
-*💞️ I’m looking to collaborate on websites design, apps design
+Actualmente estoy Terminando mis Estudios de Programador Full stack estoy realizando proyectos completos que me ayudan a mejorar poco a poco en la programación.
+ 
+*💞️ ¿A Donde Me dirijo?
 
-*📫 Contact me to nicolasaberastegui97@gmail.com
+Actualmente mi objetivo es conseguir un trabajo que me ayude a conseguir experiencia y mejorar las técnicas y conocimientos en programación.
 
+*📫 Contact me to nicolasaberastegui97@gmail.com  
 
