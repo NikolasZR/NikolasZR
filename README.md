@@ -6,7 +6,7 @@ Soy un programador Full Stack me apasionan tanto el back como el front Desde peq
   
 * 🌱 ¿Que Hago?
 
-Actualmente estoy Terminando mis Estudios de Programador Full stack estoy realizando proyectos completos que me ayudan a mejorar poco a poco en la programación.
+Actualmente eh Terminado mis Estudios de Programador Full stack estoy realizando proyectos completos que me ayudan a mejorar poco a poco en la programación.
  
 * 💞️ ¿A Donde Me dirijo?
 
